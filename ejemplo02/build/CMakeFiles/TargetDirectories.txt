@@ -1,0 +1,3 @@
+/home/kato/Desktop/tarea/ejemplo02/build/CMakeFiles/MiProyecto1.dir
+/home/kato/Desktop/tarea/ejemplo02/build/CMakeFiles/edit_cache.dir
+/home/kato/Desktop/tarea/ejemplo02/build/CMakeFiles/rebuild_cache.dir
